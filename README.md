@@ -25,3 +25,10 @@ ElseIf $ver = "Win_7" Then
 EndIf
 Sleep(0x5dc)
 Exit
+
+
+
+
+
+sending email for spam on command line 
+https://www.blat.net/
